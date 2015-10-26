@@ -1,2 +1,6 @@
+<<<<<<< HEAD:great.txt
 great work
 keep it
+=======
+great!
+>>>>>>> 08497aa20ff632b7064bcb0df144284e3250ecc1:great.txt
